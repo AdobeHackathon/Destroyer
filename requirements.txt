@@ -1,0 +1,4 @@
+pymupdf==1.23.6
+requests==2.31.0
+lxml==5.2.1
+
